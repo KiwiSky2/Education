@@ -15,6 +15,7 @@ public class homework1_2_1 {
     c2 = 85;
     System.out.println(c1);
     System.out.println(c2);
+    System.out.println(c2 + 1);
     System.out.println(number);
     System.out.println(b);
     System.out.println(r);

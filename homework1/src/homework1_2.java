@@ -13,6 +13,7 @@ public class homework1_2 {
         System.out.println(c1);
         char c2 = 40;
         System.out.println(c2);
+        System.out.println(c2 + 25);
         int n1 = 120;
         int n2 = 90;
         int n = n1 + n2;
